@@ -1,0 +1,75 @@
+ID,Timestamp,Defect_Type,Confidence,Image_Url
+5601278c,2026-02-23 10:49:33,stain,0.931451678276062,http://127.0.0.1:8000/static/uploads/res_5601278c.jpg
+7c839f16,2026-02-23 10:50:19,color issues,0.8889069557189941,http://127.0.0.1:8000/static/uploads/res_7c839f16.jpg
+9eff5967,2026-02-23 10:50:25,baekra,0.9099752902984619,http://127.0.0.1:8000/static/uploads/res_9eff5967.jpg
+e60c7c60,2026-02-23 10:50:37,cut,0.9097508788108826,http://127.0.0.1:8000/static/uploads/res_e60c7c60.jpg
+2e55a31f,2026-02-23 10:50:45,selvet,0.7284569144248962,http://127.0.0.1:8000/static/uploads/res_2e55a31f.jpg
+074a3620,2026-02-23 10:50:55,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_074a3620.jpg
+849583b7,2026-02-23 10:51:05,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_849583b7.jpg
+35cde8f6,2026-02-23 10:51:15,gray stitch,0.5422999262809753,http://127.0.0.1:8000/static/uploads/res_35cde8f6.jpg
+975cb8e9,2026-02-23 10:51:28,stain,0.27370959520339966,http://127.0.0.1:8000/static/uploads/res_975cb8e9.jpg
+62c35d54,2026-02-24 00:53:00,cut,0.8394446969032288,http://127.0.0.1:8000/static/uploads/res_62c35d54.jpg
+685ad33c,2026-02-24 00:53:06,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_685ad33c.jpg
+473cdbe4,2026-02-24 00:53:13,gray stitch,0.5422999262809753,http://127.0.0.1:8000/static/uploads/res_473cdbe4.jpg
+63f1192f,2026-02-24 00:53:21,stain,0.7705682516098022,http://127.0.0.1:8000/static/uploads/res_63f1192f.jpg
+af5c1509,2026-02-24 00:53:28,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_af5c1509.jpg
+391480d1,2026-02-24 00:53:54,stain,0.48849010467529297,http://127.0.0.1:8000/static/uploads/res_391480d1.jpg
+27029dde,2026-02-24 00:56:37,baekra,0.8737470507621765,http://127.0.0.1:8000/static/uploads/res_27029dde.jpg
+ea017f27,2026-02-24 11:44:54,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_ea017f27.jpg
+d49cc480,2026-02-24 11:45:03,cut,0.909750759601593,http://127.0.0.1:8000/static/uploads/res_d49cc480.jpg
+db192221,2026-02-24 11:45:11,cut,0.8667169213294983,http://127.0.0.1:8000/static/uploads/res_db192221.jpg
+841552d5,2026-02-24 11:45:22,stain,0.8800179958343506,http://127.0.0.1:8000/static/uploads/res_841552d5.jpg
+0bc0093a,2026-02-24 12:43:37,cut,0.909750759601593,http://127.0.0.1:8000/static/uploads/res_0bc0093a.jpg
+65e67a9a,2026-02-24 12:43:50,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_65e67a9a.jpg
+4e4d98e5,2026-02-24 12:44:30,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_4e4d98e5.jpg
+f75ff270,2026-02-24 13:00:20,cut,0.7829267978668213,http://127.0.0.1:8000/static/uploads/res_f75ff270.jpg
+16884164,2026-02-24 13:05:00,cut,0.8667169213294983,http://127.0.0.1:8000/static/uploads/res_16884164.jpg
+1e624ef4,2026-02-24 13:05:08,stain,0.8800179958343506,http://127.0.0.1:8000/static/uploads/res_1e624ef4.jpg
+d49e16c4,2026-02-27 02:57:01,cut,0.8667169213294983,http://127.0.0.1:8000/static/uploads/res_d49e16c4.jpg
+95cc4d87,2026-02-27 03:00:28,cut,0.7829267978668213,http://127.0.0.1:8000/static/uploads/res_95cc4d87.jpg
+7ad30e4e,2026-02-27 03:04:21,stain,0.9314517378807068,http://127.0.0.1:8000/static/uploads/res_7ad30e4e.jpg
+5851294d,2026-02-27 03:04:45,cut,0.7829267978668213,http://127.0.0.1:8000/static/uploads/res_5851294d.jpg
+19e160df,2026-02-27 03:04:45,cut,0.8667169213294983,http://127.0.0.1:8000/static/uploads/res_19e160df.jpg
+402726e3,2026-02-27 03:04:45,stain,0.9314517378807068,http://127.0.0.1:8000/static/uploads/res_402726e3.jpg
+eb6b0c63,2026-02-27 03:04:46,stain,0.8800179958343506,http://127.0.0.1:8000/static/uploads/res_eb6b0c63.jpg
+d42dc3b7,2026-02-27 03:04:46,cut,0.8394446969032288,http://127.0.0.1:8000/static/uploads/res_d42dc3b7.jpg
+5f81dafc,2026-02-27 03:04:47,cut,0.909750759601593,http://127.0.0.1:8000/static/uploads/res_5f81dafc.jpg
+4ec247c0,2026-02-27 03:04:47,selvet,0.7284567952156067,http://127.0.0.1:8000/static/uploads/res_4ec247c0.jpg
+62b4706b,2026-02-27 03:04:47,cut,0.8613811135292053,http://127.0.0.1:8000/static/uploads/res_62b4706b.jpg
+0b8f1227,2026-02-27 03:04:48,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_0b8f1227.jpg
+569eedb1,2026-02-27 03:04:48,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_569eedb1.jpg
+27f5da85,2026-02-27 03:04:49,gray stitch,0.5422999262809753,http://127.0.0.1:8000/static/uploads/res_27f5da85.jpg
+3a0a0996,2026-02-27 03:04:49,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_3a0a0996.jpg
+b00017ae,2026-02-27 03:04:50,cut,0.8587180376052856,http://127.0.0.1:8000/static/uploads/res_b00017ae.jpg
+eda12238,2026-02-27 03:04:50,baekra,0.8002474308013916,http://127.0.0.1:8000/static/uploads/res_eda12238.jpg
+d49283cd,2026-02-27 03:04:50,stain,0.7705682516098022,http://127.0.0.1:8000/static/uploads/res_d49283cd.jpg
+dbfa6612,2026-02-27 03:04:52,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_dbfa6612.jpg
+7a599c27,2026-02-27 03:04:52,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_7a599c27.jpg
+384f5574,2026-02-27 03:04:53,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_384f5574.jpg
+13e8a86f,2026-02-27 03:05:05,stain,0.9314517378807068,http://127.0.0.1:8000/static/uploads/res_13e8a86f.jpg
+36b224e2,2026-02-27 03:05:13,cut,0.7829267978668213,http://127.0.0.1:8000/static/uploads/res_36b224e2.jpg
+3b37dff0,2026-02-27 03:05:14,cut,0.8667169213294983,http://127.0.0.1:8000/static/uploads/res_3b37dff0.jpg
+c31ea002,2026-02-27 03:05:14,stain,0.9314517378807068,http://127.0.0.1:8000/static/uploads/res_c31ea002.jpg
+7ff5df5c,2026-02-27 03:05:14,stain,0.8800179958343506,http://127.0.0.1:8000/static/uploads/res_7ff5df5c.jpg
+237a016e,2026-02-27 03:05:14,cut,0.8394446969032288,http://127.0.0.1:8000/static/uploads/res_237a016e.jpg
+21ce57d8,2026-02-27 03:05:15,cut,0.909750759601593,http://127.0.0.1:8000/static/uploads/res_21ce57d8.jpg
+f94878e4,2026-02-27 03:05:15,selvet,0.7284567952156067,http://127.0.0.1:8000/static/uploads/res_f94878e4.jpg
+ff3b5544,2026-02-27 03:05:16,cut,0.8613811135292053,http://127.0.0.1:8000/static/uploads/res_ff3b5544.jpg
+44ada382,2026-02-27 03:05:16,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_44ada382.jpg
+b78c54a3,2026-02-27 03:05:17,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_b78c54a3.jpg
+a66881a4,2026-02-27 03:07:13,stain,0.9314517378807068,http://127.0.0.1:8000/static/uploads/res_a66881a4.jpg
+c50cfc98,2026-02-27 03:07:39,cut,0.909750759601593,http://127.0.0.1:8000/static/uploads/res_c50cfc98.jpg
+18acb3c0,2026-02-27 03:07:39,selvet,0.7284567952156067,http://127.0.0.1:8000/static/uploads/res_18acb3c0.jpg
+c09ff7da,2026-02-27 03:07:39,cut,0.8613811135292053,http://127.0.0.1:8000/static/uploads/res_c09ff7da.jpg
+dd2544f3,2026-02-27 03:07:39,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_dd2544f3.jpg
+bd132be1,2026-02-27 03:07:40,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_bd132be1.jpg
+25414cf2,2026-02-27 03:07:40,gray stitch,0.5422999262809753,http://127.0.0.1:8000/static/uploads/res_25414cf2.jpg
+64fe29fc,2026-02-27 03:07:41,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_64fe29fc.jpg
+90177a5c,2026-02-27 03:07:41,cut,0.8587180376052856,http://127.0.0.1:8000/static/uploads/res_90177a5c.jpg
+b02cced9,2026-02-27 03:07:41,baekra,0.8002474308013916,http://127.0.0.1:8000/static/uploads/res_b02cced9.jpg
+3b970320,2026-02-27 03:07:42,stain,0.7705682516098022,http://127.0.0.1:8000/static/uploads/res_3b970320.jpg
+83ad7765,2026-02-27 03:08:26,Clear,1.0,http://127.0.0.1:8000/static/uploads/res_83ad7765.jpg
+680053c6,2026-06-25 18:44:07,Hole,0.291,http://127.0.0.1:8000/static/uploads/res_680053c6.jpg
+b0b04851,2026-06-25 18:44:09,Hole,0.291,http://127.0.0.1:8000/static/uploads/res_b0b04851.jpg
+7b9dff51,2026-06-25 18:44:11,Hole,0.291,http://127.0.0.1:8000/static/uploads/res_7b9dff51.jpg
+4f29c6c3,2026-06-25 18:46:15,Hole,0.267,http://127.0.0.1:8000/static/uploads/res_4f29c6c3.jpg
