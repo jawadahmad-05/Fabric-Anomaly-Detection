@@ -76,21 +76,6 @@ python scripts/evaluate_zsad.py --datasets mvtec
 python scripts/demo_zsad.py
 ```
 
-## Quick Start (Python)
-
-```python
-from model.zsad_architecture import ZSAD, CLIPDefectClassifier
-from PIL import Image
-
-model = ZSAD(device='cuda')
-img = Image.open('fabric.jpg').convert('RGB')
-score_map, img_score, homogeneity = model.score(img)
-
-# Classify defect type
-classifier = CLIPDefectClassifier()
-name, conf = classifier.classify_simple(img)  # "Hole", "Stain", etc.
-```
-
 
 ## Requirements
 
